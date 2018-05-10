@@ -1,4 +1,4 @@
-#ELK Stack
+# ELK Stack
 Run ELK (Elasticsearch, Logstash, Kibana) stack with Docker and Docker Compose. _based on (https://github.com/deviantony/docker-elk)_
 Centralized log management allow you to visualize alerts,log and messages to discover app's states and issues.
 
@@ -7,9 +7,9 @@ Centralized log management allow you to visualize alerts,log and messages to dis
  - Docker compose
 
 ## Usage
-###Build the stack
+### Build the stack
 ``` $ docker-compose build ```
-###Start
+### Start
 Verbose mode
 ``` $ docker-compose up ```
 Daemon mode
